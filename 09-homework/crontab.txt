@@ -1,0 +1,5 @@
+Send an email every morning at 8AM telling you the sentence
+00 8 * * * python3 email-weather.py
+
+Send an email to your email address every 6 hours
+0 */6 * * * python3 wapo-briefing.py
