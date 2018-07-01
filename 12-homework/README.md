@@ -3,7 +3,11 @@ https://gist.github.com/jsoma/807c07ad59064b7fef96c8d561834e2d
 
 ## Map 1: Locator map
 
-![]()
+Emperor penguins colonies in Antarctica
+
+![](https://github.com/adrianblanco/foundations-2018/blob/master/12-homework/map1.png)
+
+![](https://github.com/adrianblanco/foundations-2018/blob/master/12-homework/map1-qgis.png)
 
 ## Map 2: Hex Bin Map
 
