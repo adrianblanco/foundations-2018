@@ -15,7 +15,7 @@ Key: Symbiology - Graduated - Simple line - Draw effects - Outer glow
 
 ![]()
 
-![]()
+![](https://github.com/adrianblanco/foundations-2018/blob/master/12-homework/map3-qgis.png)
 
 ## Map 4: Drawing your own maps
 
