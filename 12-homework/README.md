@@ -27,7 +27,9 @@ Key: Symbiology - Graduated - Simple line - Draw effects - Outer glow
 
 ## Map 5: Choropleths with labels
 
-![]()
+![](https://github.com/adrianblanco/foundations-2018/blob/master/12-homework/map1.png)
+
+![](https://github.com/adrianblanco/foundations-2018/blob/master/12-homework/map1-qgis.png)
 
 ## Map 6: Using OSM Data
 
