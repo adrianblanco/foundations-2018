@@ -11,7 +11,11 @@ Emperor penguins colonies in Antarctica
 
 ## Map 2: Hex Bin Map
 
-![]()
+Create grid - Count points - Graduate - Jenks
+
+![](https://github.com/adrianblanco/foundations-2018/blob/master/12-homework/map2.png)
+
+![](https://github.com/adrianblanco/foundations-2018/blob/master/12-homework/map2-qgis.png)
 
 ## Map 3: A super fun line map
 
@@ -33,7 +37,9 @@ Key: Symbiology - Graduated - Simple line - Draw effects - Outer glow
 
 ## Map 6: Using OSM Data
 
-![]()
+![](https://github.com/adrianblanco/foundations-2018/blob/master/12-homework/map6.png)
+
+![](https://github.com/adrianblanco/foundations-2018/blob/master/12-homework/map6-qgis.png)
 
 ## Map 7: Data joins
 
