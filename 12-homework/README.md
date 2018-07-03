@@ -27,7 +27,12 @@ Key: Symbiology - Graduated - Simple line - Draw effects - Outer glow
 
 ## Map 4: Drawing your own maps
 
-![]()
+Inspired by this story from the NYTimes
+https://www.nytimes.com/interactive/2017/02/07/science/earth/antarctic-crack.html
+
+![](https://github.com/adrianblanco/foundations-2018/blob/master/12-homework/map4.png)
+
+![](https://github.com/adrianblanco/foundations-2018/blob/master/12-homework/map4-qgis.png)
 
 ## Map 5: Choropleths with labels
 
